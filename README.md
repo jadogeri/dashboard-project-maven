@@ -5,10 +5,16 @@
 
 ---
 
+## 💻 IDE Configuration (Eclipse)
 Welcome to the **Dashboard** project! This is a modern web application built with **Jakarta EE 11** and **JSF (Jakarta Faces) 4.1**, designed for high-performance data visualization and management.
 
+---
+
+## 📸 Screenshot
 
 ![Screenshot](assets/images/screenshot.png) 
+
+---
 
 ## 🛠 Project Requirements
 
