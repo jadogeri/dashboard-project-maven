@@ -7,6 +7,9 @@
 
 Welcome to the **Dashboard** project! This is a modern web application built with **Jakarta EE 11** and **JSF (Jakarta Faces) 4.1**, designed for high-performance data visualization and management.
 
+
+![Screenshot](assets/images/screenshot.png) 
+
 ## 🛠 Project Requirements
 
 To build and run this project, ensure your environment matches the specifications defined in the `pom.xml`:
