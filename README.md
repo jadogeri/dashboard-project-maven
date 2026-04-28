@@ -1,7 +1,8 @@
 # 📊 Dashboard Project
 
 ## ✍️ Author
-* **Joseph Adogeri** - *Lead Developer* - [JosephAdogeriDev](https://github.com)
+* **Joseph Adogeri**
+- *Lead Developer* - [JosephAdogeriDev](https://github.com)
 
 ---
 
